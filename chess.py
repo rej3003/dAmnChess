@@ -2,6 +2,7 @@ import fileinput, re, os
 
 board = {}
 thumbdict = {}
+#hello opalMist its rej
 boardnumbers = list("12345678")
 boardletters = list("abcdefgh")
 turn = "w"
